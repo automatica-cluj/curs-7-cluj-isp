@@ -1,4 +1,4 @@
-package isp.curs5;
+package isp.curs7;
 
 
 import java.util.logging.Logger;
